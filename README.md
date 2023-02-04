@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adventurecricket
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning, Deep Learning,...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I
+- 📫 How to reach me: https://www.linkedin.com/in/adventurecricket
 
 <!---
 adventurecricket/adventurecricket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
